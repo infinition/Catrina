@@ -1,8 +1,9 @@
+<img width="340" height="340" alt="image-removebg-preview (9)" src="https://github.com/user-attachments/assets/3e2e12f2-1cd5-4615-a24e-c75aa311ce33" />
+
 # Catrina
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyQt](https://img.shields.io/badge/PyQt6-41CD52?style=flat&logo=qt&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/infinition)
 
-<img width="250" height="250" alt="Catrina" src="https://github.com/user-attachments/assets/ae992331-b786-4af0-8009-fd7d9df9a6cb" />
 
 A Windows desktop app (PyQt6) for building and running keyboard/mouse macros and a gaming remap mode. Covers typed text, special keys, timed waits, mouse moves/clicks/scrolls, and drag sequences with absolute screen coordinates. A recorder captures real workflows live; a simple token language drives the executor.
 
